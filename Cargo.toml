@@ -1,0 +1,21 @@
+[package]
+name = "bm-darwin-setup"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.89.0"
+license = "MIT"
+description = "Darwin system activation tool for blackmatter"
+repository = "https://github.com/pleme-io/bm-darwin-setup"
+
+[dependencies]
+clap = { version = "4", features = ["derive"] }
+anyhow = "1"
+
+[profile.release]
+codegen-units = 1
+lto = true
+opt-level = "z"
+strip = true
+
+[lints.clippy]
+pedantic = "warn"
