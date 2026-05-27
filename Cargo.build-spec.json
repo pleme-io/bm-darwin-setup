@@ -28,10 +28,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "anstream",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "anstyle",
@@ -177,10 +174,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "anstyle",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [],
       "runtime_dependencies": [],
       "build_dependencies": [],
@@ -203,10 +197,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "anstyle_parse",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "utf8parse",
@@ -246,10 +237,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "anstyle_query",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [],
       "runtime_dependencies": [],
       "build_dependencies": [],
@@ -272,10 +260,7 @@
       "proc_macro": false,
       "build_script": "build.rs",
       "binaries": [],
-      "lib_target": {
-        "name": "anyhow",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [],
       "runtime_dependencies": [],
       "build_dependencies": [],
@@ -374,10 +359,7 @@
           "path": "src/bin/stdio-fixture.rs"
         }
       ],
-      "lib_target": {
-        "name": "clap",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "clap_builder",
@@ -442,10 +424,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "clap_builder",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "anstream",
@@ -541,10 +520,7 @@
       "proc_macro": true,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "clap_derive",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "heck",
@@ -649,10 +625,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "clap_lex",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [],
       "runtime_dependencies": [],
       "build_dependencies": [],
@@ -672,10 +645,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "colorchoice",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [],
       "runtime_dependencies": [],
       "build_dependencies": [],
@@ -695,10 +665,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "heck",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [],
       "runtime_dependencies": [],
       "build_dependencies": [],
@@ -720,10 +687,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "is_terminal_polyfill",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [],
       "runtime_dependencies": [],
       "build_dependencies": [],
@@ -746,10 +710,7 @@
       "proc_macro": false,
       "build_script": "build.rs",
       "binaries": [],
-      "lib_target": {
-        "name": "proc_macro2",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "unicode_ident",
@@ -799,10 +760,7 @@
       "proc_macro": false,
       "build_script": "build.rs",
       "binaries": [],
-      "lib_target": {
-        "name": "quote",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "proc_macro2",
@@ -849,10 +807,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "strsim",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [],
       "runtime_dependencies": [],
       "build_dependencies": [],
@@ -880,10 +835,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "syn",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [
         {
           "name": "proc_macro2",
@@ -972,10 +924,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "unicode_ident",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [],
       "runtime_dependencies": [],
       "build_dependencies": [],
@@ -997,10 +946,7 @@
       "proc_macro": false,
       "build_script": null,
       "binaries": [],
-      "lib_target": {
-        "name": "utf8parse",
-        "path": "src/lib.rs"
-      },
+      "lib_target": null,
       "dependencies": [],
       "runtime_dependencies": [],
       "build_dependencies": [],
