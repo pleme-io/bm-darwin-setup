@@ -1,7 +1,7 @@
 {
-  "version": 3,
+  "version": 5,
   "workspace": {
-    "root": "/Users/drzzln/code/github/pleme-io/bm-darwin-setup",
+    "root": "/Users/luis.d/code/github/pleme-io/bm-darwin-setup",
     "members": [
       {
         "name": "bm-darwin-setup",
@@ -38,7 +38,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "anstyle_parse",
@@ -47,7 +48,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "anstyle_query",
@@ -56,7 +58,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "colorchoice",
@@ -65,7 +68,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "is_terminal_polyfill",
@@ -74,7 +78,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "utf8parse",
@@ -83,7 +88,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "runtime_dependencies": [
@@ -94,7 +100,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "anstyle_parse",
@@ -103,7 +110,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "anstyle_query",
@@ -112,7 +120,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "colorchoice",
@@ -121,7 +130,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "is_terminal_polyfill",
@@ -130,7 +140,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "utf8parse",
@@ -139,7 +150,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "build_dependencies": [],
@@ -246,7 +258,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "runtime_dependencies": [
@@ -257,7 +270,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "build_dependencies": [],
@@ -365,7 +379,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "clap",
@@ -376,7 +391,8 @@
           ],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "runtime_dependencies": [
@@ -387,7 +403,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "clap",
@@ -398,7 +415,8 @@
           ],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "build_dependencies": [],
@@ -449,7 +467,8 @@
           "features": [],
           "uses_default_features": false,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "clap_derive",
@@ -458,7 +477,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "host"
         }
       ],
       "runtime_dependencies": [
@@ -469,7 +489,8 @@
           "features": [],
           "uses_default_features": false,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "clap_derive",
@@ -478,7 +499,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "host"
         }
       ],
       "build_dependencies": [],
@@ -532,7 +554,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "anstyle",
@@ -541,7 +564,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "clap_lex",
@@ -550,7 +574,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "strsim",
@@ -559,7 +584,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "runtime_dependencies": [
@@ -570,7 +596,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "anstyle",
@@ -579,7 +606,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "clap_lex",
@@ -588,7 +616,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "strsim",
@@ -597,7 +626,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "build_dependencies": [],
@@ -644,7 +674,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "proc_macro2",
@@ -653,7 +684,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "quote",
@@ -662,7 +694,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "syn",
@@ -673,7 +706,8 @@
           ],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "runtime_dependencies": [
@@ -684,7 +718,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "proc_macro2",
@@ -693,7 +728,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "quote",
@@ -702,7 +738,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "syn",
@@ -713,7 +750,8 @@
           ],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "build_dependencies": [],
@@ -889,7 +927,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "runtime_dependencies": [
@@ -900,7 +939,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "build_dependencies": [],
@@ -960,7 +1000,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "runtime_dependencies": [
@@ -971,7 +1012,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "build_dependencies": [],
@@ -1064,7 +1106,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "quote",
@@ -1073,7 +1116,8 @@
           "features": [],
           "uses_default_features": false,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "unicode_ident",
@@ -1082,7 +1126,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "runtime_dependencies": [
@@ -1093,7 +1138,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "quote",
@@ -1102,7 +1148,8 @@
           "features": [],
           "uses_default_features": false,
           "optional": true,
-          "target": null
+          "target": null,
+          "tree": "target"
         },
         {
           "name": "unicode_ident",
@@ -1111,7 +1158,8 @@
           "features": [],
           "uses_default_features": true,
           "optional": false,
-          "target": null
+          "target": null,
+          "tree": "target"
         }
       ],
       "build_dependencies": [],
@@ -1230,6 +1278,3638 @@
     "bm-darwin-setup": {
       "default_bin": "bm-darwin-setup",
       "repo": "pleme-io/bm-darwin-setup"
+    }
+  },
+  "target_resolves": {
+    "aarch64-apple-darwin": {
+      "crates": {
+        "anstream-1.0.0": {
+          "dependencies": [
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_parse",
+              "package_key": "anstyle-parse-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_query",
+              "package_key": "anstyle-query-1.1.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "colorchoice",
+              "package_key": "colorchoice-1.0.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "is_terminal_polyfill",
+              "package_key": "is_terminal_polyfill-1.70.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_parse",
+              "package_key": "anstyle-parse-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_query",
+              "package_key": "anstyle-query-1.1.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "colorchoice",
+              "package_key": "colorchoice-1.0.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "is_terminal_polyfill",
+              "package_key": "is_terminal_polyfill-1.70.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "anstyle-1.0.14": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "anstyle-parse-1.0.0": {
+          "dependencies": [
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "anstyle-query-1.1.5": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "anyhow-1.0.102": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "bm-darwin-setup-0.1.0": {
+          "dependencies": [
+            {
+              "name": "anyhow",
+              "package_key": "anyhow-1.0.102",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap",
+              "package_key": "clap-4.6.0",
+              "kind": "normal",
+              "features": [
+                "derive"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anyhow",
+              "package_key": "anyhow-1.0.102",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap",
+              "package_key": "clap-4.6.0",
+              "kind": "normal",
+              "features": [
+                "derive"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "clap-4.6.0": {
+          "dependencies": [
+            {
+              "name": "clap_builder",
+              "package_key": "clap_builder-4.6.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap_derive",
+              "package_key": "clap_derive-4.6.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "host"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "clap_builder",
+              "package_key": "clap_builder-4.6.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap_derive",
+              "package_key": "clap_derive-4.6.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "host"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "clap_builder-4.6.0": {
+          "dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap_lex",
+              "package_key": "clap_lex-1.1.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "strsim",
+              "package_key": "strsim-0.11.1",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap_lex",
+              "package_key": "clap_lex-1.1.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "strsim",
+              "package_key": "strsim-0.11.1",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "clap_derive-4.6.0": {
+          "dependencies": [
+            {
+              "name": "heck",
+              "package_key": "heck-0.5.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "quote",
+              "package_key": "quote-1.0.45",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "syn",
+              "package_key": "syn-2.0.117",
+              "kind": "normal",
+              "features": [
+                "full"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "heck",
+              "package_key": "heck-0.5.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "quote",
+              "package_key": "quote-1.0.45",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "syn",
+              "package_key": "syn-2.0.117",
+              "kind": "normal",
+              "features": [
+                "full"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "clap_lex-1.1.0": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "colorchoice-1.0.5": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "heck-0.5.0": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "is_terminal_polyfill-1.70.2": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "proc-macro2-1.0.106": {
+          "dependencies": [
+            {
+              "name": "unicode_ident",
+              "package_key": "unicode-ident-1.0.24",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "unicode_ident",
+              "package_key": "unicode-ident-1.0.24",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "quote-1.0.45": {
+          "dependencies": [
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "strsim-0.11.1": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "syn-2.0.117": {
+          "dependencies": [
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "quote",
+              "package_key": "quote-1.0.45",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "unicode_ident",
+              "package_key": "unicode-ident-1.0.24",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "quote",
+              "package_key": "quote-1.0.45",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "unicode_ident",
+              "package_key": "unicode-ident-1.0.24",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "unicode-ident-1.0.24": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "utf8parse-0.2.2": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        }
+      }
+    },
+    "x86_64-apple-darwin": {
+      "crates": {
+        "anstream-1.0.0": {
+          "dependencies": [
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_parse",
+              "package_key": "anstyle-parse-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_query",
+              "package_key": "anstyle-query-1.1.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "colorchoice",
+              "package_key": "colorchoice-1.0.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "is_terminal_polyfill",
+              "package_key": "is_terminal_polyfill-1.70.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_parse",
+              "package_key": "anstyle-parse-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_query",
+              "package_key": "anstyle-query-1.1.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "colorchoice",
+              "package_key": "colorchoice-1.0.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "is_terminal_polyfill",
+              "package_key": "is_terminal_polyfill-1.70.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "anstyle-1.0.14": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "anstyle-parse-1.0.0": {
+          "dependencies": [
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "anstyle-query-1.1.5": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "anyhow-1.0.102": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "bm-darwin-setup-0.1.0": {
+          "dependencies": [
+            {
+              "name": "anyhow",
+              "package_key": "anyhow-1.0.102",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap",
+              "package_key": "clap-4.6.0",
+              "kind": "normal",
+              "features": [
+                "derive"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anyhow",
+              "package_key": "anyhow-1.0.102",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap",
+              "package_key": "clap-4.6.0",
+              "kind": "normal",
+              "features": [
+                "derive"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "clap-4.6.0": {
+          "dependencies": [
+            {
+              "name": "clap_builder",
+              "package_key": "clap_builder-4.6.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap_derive",
+              "package_key": "clap_derive-4.6.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "host"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "clap_builder",
+              "package_key": "clap_builder-4.6.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap_derive",
+              "package_key": "clap_derive-4.6.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "host"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "clap_builder-4.6.0": {
+          "dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap_lex",
+              "package_key": "clap_lex-1.1.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "strsim",
+              "package_key": "strsim-0.11.1",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap_lex",
+              "package_key": "clap_lex-1.1.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "strsim",
+              "package_key": "strsim-0.11.1",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "clap_derive-4.6.0": {
+          "dependencies": [
+            {
+              "name": "heck",
+              "package_key": "heck-0.5.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "quote",
+              "package_key": "quote-1.0.45",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "syn",
+              "package_key": "syn-2.0.117",
+              "kind": "normal",
+              "features": [
+                "full"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "heck",
+              "package_key": "heck-0.5.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "quote",
+              "package_key": "quote-1.0.45",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "syn",
+              "package_key": "syn-2.0.117",
+              "kind": "normal",
+              "features": [
+                "full"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "clap_lex-1.1.0": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "colorchoice-1.0.5": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "heck-0.5.0": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "is_terminal_polyfill-1.70.2": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "proc-macro2-1.0.106": {
+          "dependencies": [
+            {
+              "name": "unicode_ident",
+              "package_key": "unicode-ident-1.0.24",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "unicode_ident",
+              "package_key": "unicode-ident-1.0.24",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "quote-1.0.45": {
+          "dependencies": [
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "strsim-0.11.1": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "syn-2.0.117": {
+          "dependencies": [
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "quote",
+              "package_key": "quote-1.0.45",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "unicode_ident",
+              "package_key": "unicode-ident-1.0.24",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "quote",
+              "package_key": "quote-1.0.45",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "unicode_ident",
+              "package_key": "unicode-ident-1.0.24",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "unicode-ident-1.0.24": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "utf8parse-0.2.2": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        }
+      }
+    },
+    "x86_64-unknown-linux-gnu": {
+      "crates": {
+        "anstream-1.0.0": {
+          "dependencies": [
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_parse",
+              "package_key": "anstyle-parse-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_query",
+              "package_key": "anstyle-query-1.1.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "colorchoice",
+              "package_key": "colorchoice-1.0.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "is_terminal_polyfill",
+              "package_key": "is_terminal_polyfill-1.70.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_parse",
+              "package_key": "anstyle-parse-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_query",
+              "package_key": "anstyle-query-1.1.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "colorchoice",
+              "package_key": "colorchoice-1.0.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "is_terminal_polyfill",
+              "package_key": "is_terminal_polyfill-1.70.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "anstyle-1.0.14": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "anstyle-parse-1.0.0": {
+          "dependencies": [
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "anstyle-query-1.1.5": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "anyhow-1.0.102": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "bm-darwin-setup-0.1.0": {
+          "dependencies": [
+            {
+              "name": "anyhow",
+              "package_key": "anyhow-1.0.102",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap",
+              "package_key": "clap-4.6.0",
+              "kind": "normal",
+              "features": [
+                "derive"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anyhow",
+              "package_key": "anyhow-1.0.102",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap",
+              "package_key": "clap-4.6.0",
+              "kind": "normal",
+              "features": [
+                "derive"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "clap-4.6.0": {
+          "dependencies": [
+            {
+              "name": "clap_builder",
+              "package_key": "clap_builder-4.6.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap_derive",
+              "package_key": "clap_derive-4.6.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "host"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "clap_builder",
+              "package_key": "clap_builder-4.6.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap_derive",
+              "package_key": "clap_derive-4.6.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "host"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "clap_builder-4.6.0": {
+          "dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap_lex",
+              "package_key": "clap_lex-1.1.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "strsim",
+              "package_key": "strsim-0.11.1",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap_lex",
+              "package_key": "clap_lex-1.1.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "strsim",
+              "package_key": "strsim-0.11.1",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "clap_derive-4.6.0": {
+          "dependencies": [
+            {
+              "name": "heck",
+              "package_key": "heck-0.5.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "quote",
+              "package_key": "quote-1.0.45",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "syn",
+              "package_key": "syn-2.0.117",
+              "kind": "normal",
+              "features": [
+                "full"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "heck",
+              "package_key": "heck-0.5.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "quote",
+              "package_key": "quote-1.0.45",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "syn",
+              "package_key": "syn-2.0.117",
+              "kind": "normal",
+              "features": [
+                "full"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "clap_lex-1.1.0": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "colorchoice-1.0.5": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "heck-0.5.0": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "is_terminal_polyfill-1.70.2": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "proc-macro2-1.0.106": {
+          "dependencies": [
+            {
+              "name": "unicode_ident",
+              "package_key": "unicode-ident-1.0.24",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "unicode_ident",
+              "package_key": "unicode-ident-1.0.24",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "quote-1.0.45": {
+          "dependencies": [
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "strsim-0.11.1": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "syn-2.0.117": {
+          "dependencies": [
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "quote",
+              "package_key": "quote-1.0.45",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "unicode_ident",
+              "package_key": "unicode-ident-1.0.24",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "quote",
+              "package_key": "quote-1.0.45",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "unicode_ident",
+              "package_key": "unicode-ident-1.0.24",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "unicode-ident-1.0.24": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "utf8parse-0.2.2": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        }
+      }
+    },
+    "x86_64-unknown-linux-musl": {
+      "crates": {
+        "anstream-1.0.0": {
+          "dependencies": [
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_parse",
+              "package_key": "anstyle-parse-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_query",
+              "package_key": "anstyle-query-1.1.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "colorchoice",
+              "package_key": "colorchoice-1.0.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "is_terminal_polyfill",
+              "package_key": "is_terminal_polyfill-1.70.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_parse",
+              "package_key": "anstyle-parse-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_query",
+              "package_key": "anstyle-query-1.1.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "colorchoice",
+              "package_key": "colorchoice-1.0.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "is_terminal_polyfill",
+              "package_key": "is_terminal_polyfill-1.70.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "anstyle-1.0.14": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "anstyle-parse-1.0.0": {
+          "dependencies": [
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "anstyle-query-1.1.5": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "anyhow-1.0.102": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "bm-darwin-setup-0.1.0": {
+          "dependencies": [
+            {
+              "name": "anyhow",
+              "package_key": "anyhow-1.0.102",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap",
+              "package_key": "clap-4.6.0",
+              "kind": "normal",
+              "features": [
+                "derive"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anyhow",
+              "package_key": "anyhow-1.0.102",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap",
+              "package_key": "clap-4.6.0",
+              "kind": "normal",
+              "features": [
+                "derive"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "clap-4.6.0": {
+          "dependencies": [
+            {
+              "name": "clap_builder",
+              "package_key": "clap_builder-4.6.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap_derive",
+              "package_key": "clap_derive-4.6.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "host"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "clap_builder",
+              "package_key": "clap_builder-4.6.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap_derive",
+              "package_key": "clap_derive-4.6.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "host"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "clap_builder-4.6.0": {
+          "dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap_lex",
+              "package_key": "clap_lex-1.1.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "strsim",
+              "package_key": "strsim-0.11.1",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap_lex",
+              "package_key": "clap_lex-1.1.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "strsim",
+              "package_key": "strsim-0.11.1",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "clap_derive-4.6.0": {
+          "dependencies": [
+            {
+              "name": "heck",
+              "package_key": "heck-0.5.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "quote",
+              "package_key": "quote-1.0.45",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "syn",
+              "package_key": "syn-2.0.117",
+              "kind": "normal",
+              "features": [
+                "full"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "heck",
+              "package_key": "heck-0.5.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "quote",
+              "package_key": "quote-1.0.45",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "syn",
+              "package_key": "syn-2.0.117",
+              "kind": "normal",
+              "features": [
+                "full"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "clap_lex-1.1.0": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "colorchoice-1.0.5": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "heck-0.5.0": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "is_terminal_polyfill-1.70.2": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "proc-macro2-1.0.106": {
+          "dependencies": [
+            {
+              "name": "unicode_ident",
+              "package_key": "unicode-ident-1.0.24",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "unicode_ident",
+              "package_key": "unicode-ident-1.0.24",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "quote-1.0.45": {
+          "dependencies": [
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "strsim-0.11.1": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "syn-2.0.117": {
+          "dependencies": [
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "quote",
+              "package_key": "quote-1.0.45",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "unicode_ident",
+              "package_key": "unicode-ident-1.0.24",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "quote",
+              "package_key": "quote-1.0.45",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "unicode_ident",
+              "package_key": "unicode-ident-1.0.24",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "unicode-ident-1.0.24": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "utf8parse-0.2.2": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        }
+      }
+    },
+    "aarch64-unknown-linux-gnu": {
+      "crates": {
+        "anstream-1.0.0": {
+          "dependencies": [
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_parse",
+              "package_key": "anstyle-parse-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_query",
+              "package_key": "anstyle-query-1.1.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "colorchoice",
+              "package_key": "colorchoice-1.0.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "is_terminal_polyfill",
+              "package_key": "is_terminal_polyfill-1.70.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_parse",
+              "package_key": "anstyle-parse-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_query",
+              "package_key": "anstyle-query-1.1.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "colorchoice",
+              "package_key": "colorchoice-1.0.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "is_terminal_polyfill",
+              "package_key": "is_terminal_polyfill-1.70.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "anstyle-1.0.14": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "anstyle-parse-1.0.0": {
+          "dependencies": [
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "anstyle-query-1.1.5": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "anyhow-1.0.102": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "bm-darwin-setup-0.1.0": {
+          "dependencies": [
+            {
+              "name": "anyhow",
+              "package_key": "anyhow-1.0.102",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap",
+              "package_key": "clap-4.6.0",
+              "kind": "normal",
+              "features": [
+                "derive"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anyhow",
+              "package_key": "anyhow-1.0.102",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap",
+              "package_key": "clap-4.6.0",
+              "kind": "normal",
+              "features": [
+                "derive"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "clap-4.6.0": {
+          "dependencies": [
+            {
+              "name": "clap_builder",
+              "package_key": "clap_builder-4.6.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap_derive",
+              "package_key": "clap_derive-4.6.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "host"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "clap_builder",
+              "package_key": "clap_builder-4.6.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap_derive",
+              "package_key": "clap_derive-4.6.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "host"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "clap_builder-4.6.0": {
+          "dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap_lex",
+              "package_key": "clap_lex-1.1.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "strsim",
+              "package_key": "strsim-0.11.1",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap_lex",
+              "package_key": "clap_lex-1.1.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "strsim",
+              "package_key": "strsim-0.11.1",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "clap_derive-4.6.0": {
+          "dependencies": [
+            {
+              "name": "heck",
+              "package_key": "heck-0.5.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "quote",
+              "package_key": "quote-1.0.45",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "syn",
+              "package_key": "syn-2.0.117",
+              "kind": "normal",
+              "features": [
+                "full"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "heck",
+              "package_key": "heck-0.5.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "quote",
+              "package_key": "quote-1.0.45",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "syn",
+              "package_key": "syn-2.0.117",
+              "kind": "normal",
+              "features": [
+                "full"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "clap_lex-1.1.0": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "colorchoice-1.0.5": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "heck-0.5.0": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "is_terminal_polyfill-1.70.2": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "proc-macro2-1.0.106": {
+          "dependencies": [
+            {
+              "name": "unicode_ident",
+              "package_key": "unicode-ident-1.0.24",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "unicode_ident",
+              "package_key": "unicode-ident-1.0.24",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "quote-1.0.45": {
+          "dependencies": [
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "strsim-0.11.1": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "syn-2.0.117": {
+          "dependencies": [
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "quote",
+              "package_key": "quote-1.0.45",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "unicode_ident",
+              "package_key": "unicode-ident-1.0.24",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "quote",
+              "package_key": "quote-1.0.45",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "unicode_ident",
+              "package_key": "unicode-ident-1.0.24",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "unicode-ident-1.0.24": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "utf8parse-0.2.2": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        }
+      }
+    },
+    "aarch64-unknown-linux-musl": {
+      "crates": {
+        "anstream-1.0.0": {
+          "dependencies": [
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_parse",
+              "package_key": "anstyle-parse-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_query",
+              "package_key": "anstyle-query-1.1.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "colorchoice",
+              "package_key": "colorchoice-1.0.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "is_terminal_polyfill",
+              "package_key": "is_terminal_polyfill-1.70.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_parse",
+              "package_key": "anstyle-parse-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle_query",
+              "package_key": "anstyle-query-1.1.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "colorchoice",
+              "package_key": "colorchoice-1.0.5",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "is_terminal_polyfill",
+              "package_key": "is_terminal_polyfill-1.70.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "anstyle-1.0.14": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "anstyle-parse-1.0.0": {
+          "dependencies": [
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "utf8parse",
+              "package_key": "utf8parse-0.2.2",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "anstyle-query-1.1.5": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "anyhow-1.0.102": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "bm-darwin-setup-0.1.0": {
+          "dependencies": [
+            {
+              "name": "anyhow",
+              "package_key": "anyhow-1.0.102",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap",
+              "package_key": "clap-4.6.0",
+              "kind": "normal",
+              "features": [
+                "derive"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anyhow",
+              "package_key": "anyhow-1.0.102",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap",
+              "package_key": "clap-4.6.0",
+              "kind": "normal",
+              "features": [
+                "derive"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "clap-4.6.0": {
+          "dependencies": [
+            {
+              "name": "clap_builder",
+              "package_key": "clap_builder-4.6.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap_derive",
+              "package_key": "clap_derive-4.6.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "host"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "clap_builder",
+              "package_key": "clap_builder-4.6.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap_derive",
+              "package_key": "clap_derive-4.6.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "host"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "clap_builder-4.6.0": {
+          "dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap_lex",
+              "package_key": "clap_lex-1.1.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "strsim",
+              "package_key": "strsim-0.11.1",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "anstream",
+              "package_key": "anstream-1.0.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "anstyle",
+              "package_key": "anstyle-1.0.14",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "clap_lex",
+              "package_key": "clap_lex-1.1.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "strsim",
+              "package_key": "strsim-0.11.1",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "clap_derive-4.6.0": {
+          "dependencies": [
+            {
+              "name": "heck",
+              "package_key": "heck-0.5.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "quote",
+              "package_key": "quote-1.0.45",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "syn",
+              "package_key": "syn-2.0.117",
+              "kind": "normal",
+              "features": [
+                "full"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "heck",
+              "package_key": "heck-0.5.0",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "quote",
+              "package_key": "quote-1.0.45",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "syn",
+              "package_key": "syn-2.0.117",
+              "kind": "normal",
+              "features": [
+                "full"
+              ],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "clap_lex-1.1.0": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "colorchoice-1.0.5": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "heck-0.5.0": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "is_terminal_polyfill-1.70.2": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "proc-macro2-1.0.106": {
+          "dependencies": [
+            {
+              "name": "unicode_ident",
+              "package_key": "unicode-ident-1.0.24",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "unicode_ident",
+              "package_key": "unicode-ident-1.0.24",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "quote-1.0.45": {
+          "dependencies": [
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "strsim-0.11.1": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "syn-2.0.117": {
+          "dependencies": [
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "quote",
+              "package_key": "quote-1.0.45",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "unicode_ident",
+              "package_key": "unicode-ident-1.0.24",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "runtime_dependencies": [
+            {
+              "name": "proc_macro2",
+              "package_key": "proc-macro2-1.0.106",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "quote",
+              "package_key": "quote-1.0.45",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": false,
+              "optional": true,
+              "target": null,
+              "tree": "target"
+            },
+            {
+              "name": "unicode_ident",
+              "package_key": "unicode-ident-1.0.24",
+              "kind": "normal",
+              "features": [],
+              "uses_default_features": true,
+              "optional": false,
+              "target": null,
+              "tree": "target"
+            }
+          ],
+          "build_dependencies": []
+        },
+        "unicode-ident-1.0.24": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        },
+        "utf8parse-0.2.2": {
+          "dependencies": [],
+          "runtime_dependencies": [],
+          "build_dependencies": []
+        }
+      }
     }
   }
 }
