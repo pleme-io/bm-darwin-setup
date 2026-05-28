@@ -1,30 +1,18 @@
 {
   description = "bm-darwin-setup — Darwin system activation tool for blackmatter";
 
-  inputs = {
-    nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-25.11";
-    crate2nix.url = "github:nix-community/crate2nix";
-    flake-utils.url = "github:numtide/flake-utils";
-    substrate = {
-      url = "github:pleme-io/substrate";
-      inputs.nixpkgs.follows = "nixpkgs";
+  # Canonical pleme-io Rust-tool consumer flake. substrate.rust.tool
+  # pre-binds nixpkgs / crate2nix / flake-utils / fenix / devenv / gen
+  # — every dependency the build kit needs — so a substrate bump
+  # propagates fleet-wide without touching this file. toolName + repo
+  # are read from the typed `flake_metadata.bm-darwin-setup` in
+  # Cargo.build-spec.json.
+  inputs.substrate.url = "github:pleme-io/substrate";
+
+  outputs = { substrate, ... }: substrate.rust.tool {
+    src = ./.;
+    module = {
+      description = "bm-darwin-setup — Darwin system activation tool for blackmatter";
     };
   };
-
-  outputs =
-    {
-      self,
-      nixpkgs,
-      crate2nix,
-      flake-utils,
-      substrate,
-    }:
-    (import "${substrate}/lib/rust-tool-release-flake.nix" {
-      inherit nixpkgs crate2nix flake-utils;
-    })
-      {
-        toolName = "bm-darwin-setup";
-        src = self;
-        repo = "pleme-io/bm-darwin-setup";
-      };
 }
